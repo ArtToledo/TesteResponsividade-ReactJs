@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ArtToledo/TesteResponsividade-ReactJs/blob/master/gifProject.gif">
+  <img width="600" height="400" src="https://github.com/ArtToledo/TesteResponsividade-ReactJs/blob/master/gifProject.gif">
 </p>
 
 # Teste de Responsividade (React)
